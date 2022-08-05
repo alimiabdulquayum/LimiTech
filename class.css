@@ -75,6 +75,9 @@ h6{
 .team .card{
     box-shadow: 15px 15px 40px rgba(91, 66, 184, 0.15);
 }
+.row button{
+    background-color: yellow;
+}
 
 
 
